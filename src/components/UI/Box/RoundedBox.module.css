@@ -1,0 +1,7 @@
+.boxContainer {
+box-shadow: 0;
+}
+
+.boxContainer img {
+    width: 30%;
+}

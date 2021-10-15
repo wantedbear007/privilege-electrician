@@ -1,0 +1,24 @@
+.button {
+    font-size: 1rem;
+    padding: 8px 20px;
+    cursor: pointer;
+    background-color: transparent;
+    margin-right: 4px;
+    border: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: white;
+    border-radius: 20px;
+    transition: all 0.9s;
+
+}
+
+.button:hover {
+    background-color: black;
+
+}
+
+.button:active {
+    background-color: white;
+    color: black;
+}

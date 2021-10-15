@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&display=swap');   
+
+.footerContainer {
+  background-color: #5C7AEA;
+  color: white;
+  letter-spacing: 3px;
+  margin: 0;
+  height: 20rem;
+  width: 100%;
+  border-radius: 20px 20px 0 0;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  font-family: 'Josefin Sans';
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.75);
+}
